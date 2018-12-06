@@ -1,0 +1,18 @@
+node_modules
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.env
+dist
+npm-debug.log
+yarn-error.log
+.vscode/*
+src/js/vendor/*-manifest.json
+.eslintcache
+stats.json
+package-lock.json
+jestCoverageReports/
